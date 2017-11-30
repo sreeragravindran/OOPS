@@ -1,0 +1,5 @@
+/Users/zf58/Projects/MyGit/OOPS/Immutability/Immutability/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/zf58/Projects/MyGit/OOPS/Immutability/Immutability/bin/Debug/Immutability.pdb
+/Users/zf58/Projects/MyGit/OOPS/Immutability/Immutability/bin/Debug/Immutability.exe
+/Users/zf58/Projects/MyGit/OOPS/Immutability/Immutability/obj/x86/Debug/Immutability.exe
+/Users/zf58/Projects/MyGit/OOPS/Immutability/Immutability/obj/x86/Debug/Immutability.pdb

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Immutability
 {
-    public class PopsicleImmutable 
+    public sealed class PopsicleImmutable 
     {
 		public bool Frozen { get; private set; }
 

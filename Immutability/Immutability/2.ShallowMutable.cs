@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Immutability
 {
-    public class ShallowMutable
+    public sealed class ShallowMutable
     {
         // immutable 
         public int Value { get; }
